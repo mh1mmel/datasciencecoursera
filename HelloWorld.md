@@ -1,9 +1,7 @@
 ##This is a markdown file
 
-*Quick
+* Quick
 
-*Efficient
+* Efficient
 
-*Handy
-
-###Not sure why .md opens in RStudio.
+* Handy
